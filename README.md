@@ -1,7 +1,7 @@
 # Projects Directory
 #### Collection of all of my projects 
 
-[A](#a) - [B](#b) - [C](#c) - [L](#l) - [M](#m) - [N](#n) - [P](#p)- [R](#r) - [S](#s) - [T](#t) - [Q](#q) - [R](#r) - [S](#s) - [T](#t)
+[A](#a) - [B](#b) - [C](#c) - [L](#l) - [M](#m) - [N](#n) - [P](#p)- [R](#r) - [S](#s) - [T](#t)
 
 
 ## A <a id="a"></a>
