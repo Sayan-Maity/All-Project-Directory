@@ -1,7 +1,7 @@
 # Projects Directory
 #### Collection of all of my projects 
 
-[A](#a) - [B](#b) - [C](#c) - [L](#l) - [M](#m) - [P](#p)- [R](#r) - [S](#s) - [T](#t)
+[A](#a) - [B](#b) - [C](#c) - [L](#l) - [N](#n) - [M](#m) - [P](#p)- [R](#r) - [S](#s) - [T](#t)
 
 
 ## A <a id="a"></a>
@@ -19,6 +19,9 @@
 ## L <a id="l"></a>
 - <a href="https://github.com/Sayan-Maity/Login-Redux">Login-Redux<a/> - Login Register application 
 - <a href="https://github.com/Sayan-Maity/Login-Register-Authentication">Login-Register-Authentication<a/> - Login Register application 
+
+## N <a id="n"></a>
+- <a href="https://github.com/Sayan-Maity/NFT-Pool">NFT POOL.<a/> - A cool frontend responsive landing page of a NFT website
   
 ## M <a id="m"></a>
 - <a href="https://github.com/Sayan-Maity/Movie-Hub">Movie Hub<a/> - A movie application where API fetches the latest movies of differnt generes like 'horror', 'upcoming', 'popular', etc. and shows them on our website
