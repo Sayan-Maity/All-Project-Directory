@@ -1,7 +1,7 @@
 # Projects Directory
 #### Collection of all of my projects 
 
-[A](#a) - [B](#b) - [C](#c) - [L](#l) - [N](#n) - [M](#m) - [P](#p)- [R](#r) - [S](#s) - [T](#t)
+[A](#a) - [B](#b) - [C](#c) - [G](#g) - [L](#l) - [N](#n) - [M](#m) - [P](#p)- [R](#r) - [S](#s) - [T](#t)
 
 
 ## A <a id="a"></a>
@@ -15,6 +15,9 @@
 - <a href="https://github.com/Sayan-Maity/Cat-life">Cat Life<a/> - The first ever application I had tried to deploy on github pages
 - <a href="https://github.com/Sayan-Maity/Calculator.github.io">Calculator<a/> - Calculator made using react helps in calculating multiple calculations
 - <a href="https://github.com/Sayan-Maity/CRUD-app">CRUD App<a/> - A CRUD web application
+
+## G <a id="g"></a>
+- <a href="https://github.com/Sayan-Maity/Guess-the-Color">Guess the Color<a/> - 'Guess the Color' - is a game where player have to choose the correct color matching the RGB color model given to them
   
 ## L <a id="l"></a>
 - <a href="https://github.com/Sayan-Maity/Login-Redux">Login-Redux<a/> - Login Register application 
