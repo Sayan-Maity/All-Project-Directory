@@ -17,7 +17,7 @@
 - <a href="https://github.com/Sayan-Maity/CRUD-app">CRUD App<a/> - A CRUD web application
 
 ## G <a id="g"></a>
-- <a href="https://github.com/Sayan-Maity/Guess-the-Color">Guess the Color<a/> - 'Guess the Color' - is a game where player have to choose the correct color matching the RGB color model given to them
+- <a href="https://github.com/Sayan-Maity/Guess-the-Color">Guess the Color<a/> - 'Guess the Color' is a game where player have to choose the correct color matching the RGB color model given to them
   
 ## L <a id="l"></a>
 - <a href="https://github.com/Sayan-Maity/Login-Redux">Login-Redux<a/> - Login Register application 
