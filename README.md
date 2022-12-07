@@ -9,7 +9,8 @@
   
 ## B <a id="b"></a>
 - <a href="https://github.com/Sayan-Maity/11ty-blogging-site">11ty Blogging Site<a/> - A blogging web application made with CMS(eleventy)
-
+- <a href="https://github.com/Sayan-Maity/Book-Worm">Book Worm<a/> - A book finder and reader application which implements the Google Books API to retrieve information about a book that the user searches for.
+  
 ## C <a id="c"></a>
 - <a href="https://github.com/Sayan-Maity/Cypherock-Tutorial">Cypherock Tutorial<a/> - The frontend assignment given by the Cypherock Company to asses my frontend skills
 - <a href="https://github.com/Sayan-Maity/Cat-life">Cat Life<a/> - The first ever application I had tried to deploy on github pages
