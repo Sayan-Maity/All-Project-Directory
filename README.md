@@ -6,6 +6,7 @@
 
 ## A <a id="a"></a>
 - <a href="https://github.com/Sayan-Maity/Airbnb-Clone">Airbnb Clone<a/> - The clone of the landing page of the famous Airbnb website made using React.js
+- <a href="https://github.com/Sayan-Maity/Art-United">Art United<a/> - A full stack modern Art Gallary web application
   
 ## B <a id="b"></a>
 - <a href="https://github.com/Sayan-Maity/11ty-blogging-site">11ty Blogging Site<a/> - A blogging web application made with CMS(eleventy)
