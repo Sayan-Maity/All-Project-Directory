@@ -1,7 +1,7 @@
 # Projects Directory
 #### Collection of all of my projects 
 
-[A](#a) - [B](#b) - [C](#c) - [E](#e) - [G](#g) - [H](#h) - [L](#l) - [N](#n) - [M](#m) - [P](#p)- [R](#r) - [S](#s) - [T](#t)
+[A](#a) - [B](#b) - [C](#c) - [E](#e) - [G](#g) - [H](#h) - [I](#i) - [L](#l) - [N](#n) - [M](#m) - [P](#p)- [R](#r) - [S](#s) - [T](#t)
 
 
 ## A <a id="a"></a>
@@ -25,6 +25,9 @@
 
 ## H <a id="h"></a>
 - <a href="https://github.com/Sayan-Maity/Hotel-Booking-Using-C">Hotel Booking Using C<a/> - C++ project which can create and search for client id and book hotel room, restaurant & convention hall and also calculates the cost.
+
+## I <a id="i"></a>
+- <a href="https://github.com/Sayan-Maity/InstaCart">InstaCart<a/> - Responsive frontend Landing page clone of InstaCart App 
   
 ## L <a id="l"></a>
 - <a href="https://github.com/Sayan-Maity/Login-Redux">Login-Redux<a/> - Login Register application 
