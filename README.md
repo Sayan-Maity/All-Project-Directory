@@ -39,6 +39,7 @@
   
 ## M <a id="m"></a>
 - <a href="https://github.com/Sayan-Maity/Movie-Hub">Movie Hub<a/> - A movie application where API fetches the latest movies of differnt generes like 'horror', 'upcoming', 'popular', etc. and shows them on our website
+- <a href="https://github.com/Sayan-Maity/ML_Practise">ML Practise<a/> - All of my machine learning projects are stacked here
   
 ## P <a id="p"></a>
 - <a href="https://github.com/Sayan-Maity/Pig-Dice-Game">Pig Dice Game<a/> - Pig Dice is a game of luck and intrigue where players roll a die until they get a one or choose to stop and bank their total. First player to bank 100 points wins
