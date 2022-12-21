@@ -11,6 +11,8 @@
 ## B <a id="b"></a>
 - <a href="https://github.com/Sayan-Maity/11ty-blogging-site">11ty Blogging Site<a/> - A blogging web application made with CMS(eleventy)
 - <a href="https://github.com/Sayan-Maity/Book-Worm">Book Worm<a/> - A book finder and reader application which implements the Google Books API to retrieve information about a book that the user searches for.
+- <a href="https://github.com/Sayan-Maity/Beer-Planet">Beer Planet<a/> - A Beer wikipedia website fetching all kinds of information of Beers
+- <a href="https://github.com/Sayan-Maity/Brain-Teaser">Brain Teaser<a/> - A OneStop application to help improving your mental calculation power 🧑
   
 ## C <a id="c"></a>
 - <a href="https://github.com/Sayan-Maity/Cypherock-Tutorial">Cypherock Tutorial<a/> - The frontend assignment given by the Cypherock Company to asses my frontend skills
@@ -44,7 +46,7 @@
 ## P <a id="p"></a>
 - <a href="https://github.com/Sayan-Maity/Pig-Dice-Game">Pig Dice Game<a/> - Pig Dice is a game of luck and intrigue where players roll a die until they get a one or choose to stop and bank their total. First player to bank 100 points wins
 - <a href="https://github.com/Sayan-Maity/Payment-card">Payment Card<a/> - A frontend design of a payment card
-  
+- <a href="https://github.com/Sayan-Maity/Play-Beer">Play Beer<a/> - Play this beer game while having some beer 🍺
 
 ## R <a id="r"></a>
 - <a href="https://github.com/Sayan-Maity/Resort-Paradise">Resort Paradise<a/> - Resort Paradise is an online resort booking web application where an user can login and book their tickets 
