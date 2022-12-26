@@ -56,7 +56,7 @@
 
 ## T <a id="t"></a>
 - <a href="https://github.com/Sayan-Maity/Travel-react">Travel-react<a/> - Travel-react is a frontend design of a tours and travels website made using React.js
-- <a href="https://github.com/Sayan-Maity/Tour---Travel">Tour Travel<a/> - A frontend design of a tours and travels website made using html, css and javascript
+- <a href="https://github.com/Sayan-Maity/Tourism">Tourism<a/> - A frontend design of a tours and travels website made using html, css and javascript
 - <a href="https://github.com/Sayan-Maity/Tesla-Clone">Tesla Clone<a/> - The clone of the landing page of the famous Tesla website made using React.js
 - <a href="https://github.com/Sayan-Maity/Todo-App">Todo-App<a/> - Todo App is a free minimalist daily planner app focused on privacy. Schedule your tasks and projects with the to do lists and complete your deadline before the day ends. 
 - <a href="https://github.com/Sayan-Maity/tic-tac-toe">Tik Tak Toe<a/> - Tic-Tac-Toe is a simple, two-player game that, if played optimally by both players, will always result in a tie. The game is also called noughts and crosses or Xs and Os.
