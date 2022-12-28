@@ -26,6 +26,7 @@
   
 ## G <a id="g"></a>
 - <a href="https://github.com/Sayan-Maity/Guess-the-Color">Guess the Color<a/> - 'Guess the Color' is a game where player have to choose the correct color matching the RGB color model given to them
+- <a href="https://github.com/Sayan-Maity/Gradient-Hunt">Gradient Hunt<a/> - 'Gradient Hunt' is a free and open platform for color inspiration with thousands of trendy hand-made color gradients
 
 ## H <a id="h"></a>
 - <a href="https://github.com/Sayan-Maity/Hotel-Booking-Using-C">Hotel Booking Using C<a/> - C++ project which can create and search for client id and book hotel room, restaurant & convention hall and also calculates the cost.
