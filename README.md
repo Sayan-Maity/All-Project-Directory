@@ -20,6 +20,7 @@
 - <a href="https://github.com/Sayan-Maity/Cat-life">Cat Life<a/> - The first ever application I had tried to deploy on github pages
 - <a href="https://github.com/Sayan-Maity/Calculator.github.io">Calculator<a/> - Calculator made using react helps in calculating multiple calculations
 - <a href="https://github.com/Sayan-Maity/CRUD-app">CRUD App<a/> - A CRUD web application
+- <a href="https://github.com/Sayan-Maity/Cooking-Partner">Cooking Partner<a/> - A web application which helps users to prepare delicious meals at home 🍔🍕
 
 ## E <a id="e"></a>
 - <a href="https://github.com/Sayan-Maity/Expense-Tracker">Expense Tracker<a/> - Manage your savings and expenses with our Expense-Tracker application
