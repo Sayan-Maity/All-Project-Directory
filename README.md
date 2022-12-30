@@ -8,6 +8,7 @@
 - <a href="https://github.com/Sayan-Maity/Airbnb-Clone">Airbnb Clone<a/> - The clone of the landing page of the famous Airbnb website made using React.js
 - <a href="https://github.com/Sayan-Maity/Art-United">Art United<a/> - A full stack modern Art Gallary web application
 - <a href="https://github.com/Sayan-Maity/Admin-Dashboard">Admin Dashboard<a/> - Responsive frontend admin dashboard
+- <a href="https://github.com/Sayan-Maity/Algorithm-Visualizer">Algorithm Visualizer<a/> - Algorithm Visualizer helps users to understand the algorithms in a more visual and interactive way 🤖 👨‍💻
   
 ## B <a id="b"></a>
 - <a href="https://github.com/Sayan-Maity/11ty-blogging-site">11ty Blogging Site<a/> - A blogging web application made with CMS(eleventy)
